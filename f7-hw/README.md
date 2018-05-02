@@ -1,6 +1,6 @@
 ## Documents on F767, Nucleo-144
 
-1. **MCU_Reference_Manual_DM00224583.pdf**,
+1. **MCU_Reference_Manual_RM0410_DM00224583.pdf**,
    - reference manual, 896 pages,
    - F76xxx and F77xxx.
 2. **MCUs_Description_DM00273119.pdf**,
